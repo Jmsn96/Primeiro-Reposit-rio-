@@ -1,4 +1,6 @@
-# Para copiar comendos em HTML:
+# Primeiro-repositorio
+
+Para copiar o código em HTML: 
 <html>
-  <h1> Adicionando códigos para copiar HTML </h1> 
+  <h1> Meu primeiro arquivo em HTML </h1> 
   </html>
